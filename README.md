@@ -72,19 +72,13 @@ A simple yet effective Python script designed to automate the renaming of files 
 
 Contributions are welcome! Please feel free to submit pull requests or open issues to suggest improvements or report bugs.
 
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE) - see the `LICENSE` file for details.
-
 ## 📬 Contact
 
 If you have any questions or suggestions, feel free to reach out:
 
-[Your Name/Organization] - [Your Email/Website]
+zenabadnan10@gmail.com
 
 ## 💖 Thanks Message
 
 Thank you for checking out this simple file renaming script! We hope it helps streamline your file management tasks.
-
-This is written by [readme.ai](https://readme-generator-phi.vercel.app/).
 
